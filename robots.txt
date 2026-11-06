@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://murilomachado-peca.github.io/wintmarsun/sitemap.xml
